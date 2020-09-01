@@ -1,7 +1,7 @@
 {
-  "name": "webpack-intro",
+  "name": "webpack-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "A practice repo using webpack",
   "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
